@@ -1,0 +1,9 @@
+.question-box{
+    font-family: 'Flamenco', cursive;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.list-group-item:hover {
+    background: #99fff8;
+    cursor: pointer;
+}
